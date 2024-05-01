@@ -7,7 +7,9 @@ public class regularbanking {
             customer.cashoperation( -amt );
             customer.increment_transaction();
             System.out.println("withdraw amount"+amt);
-        } else
+        }
+         else if (amt>customer.getAccount_balance()) {
+            System.out.println("Withdraw  amount is greater than the balance");else
             System.out.println( "Entered amount is invalid" );
     }else
             System.out.println("Invalid Account number");
