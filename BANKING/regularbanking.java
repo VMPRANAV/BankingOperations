@@ -8,7 +8,7 @@ public class regularbanking {
             customer.increment_transaction();
             System.out.println("withdraw amount"+amt);
         }
-         else if (amt>customer.getAccount_balance()) {
+         else if (customer.sufficentbalancee( amt )) {
             System.out.println("Withdraw  amount is greater than the balance");else
             System.out.println( "Entered amount is invalid" );
     }else
