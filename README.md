@@ -5,7 +5,9 @@ Hello! This is the solution for the banking problem statement provided during Co
 
 **DEMO:**
 Here is the demo output of the above code.
-![Uploading Output1.gif…]()
+
+![Output1](https://github.com/VMPRANAV/BankingOperations/assets/137675023/d74b7b36-9629-4948-bf07-205b9f54abd8)
+
 
 
 **PROBLEM STATEMENT:**
