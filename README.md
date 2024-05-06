@@ -4,7 +4,9 @@ Hello! This is the solution for the banking problem statement provided during Co
 
 
 **DEMO:**
-dd
+Here is the demo output of the above code.
+![Uploading Output1.gif…]()
+
 
 **PROBLEM STATEMENT:**
 
