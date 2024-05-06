@@ -2,7 +2,7 @@
 
 **INTRO:**
 
-Hello Folks! This is my solution for the banking problem statement provided during Coder’s Crusade event at Mechotron 24 held at CIT,Coimbatore.
+Hello Folks! This is my solution for the banking problem statement provided during Coder’s Crusade event at Mechnotron 24 held at CIT,Coimbatore.
 
 
 **DEMO:**
